@@ -129,5 +129,4 @@ alias dl="cd /home/jabroni/_/deeplearning"
 alias thea="cd /home/jabroni/_/thea"
 alias theano="cd /home/jabroni/_/theano-scaffold"
 
-echo "Conviction"
-echo "[1] Monthly Goals"
+cat $HOME/.convictions
